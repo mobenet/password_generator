@@ -1,5 +1,4 @@
 import string
-import random 
 import secrets
 
 def generate_secure_password(length, use_uppercase=True, use_numbers=True, use_symbols=True):
